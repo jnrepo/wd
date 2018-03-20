@@ -50,7 +50,7 @@
     "q": "1.4.1",
     "request": "2.79.0",
     "underscore.string": "3.3.4",
-    "vargs": "0.1.0"
+    "vargs": "git+https://github.com/mike-lang/vargs.git#5587d9a0a63e5fa09710e23f3d147e1cfb39c938"
   },
   "devDependencies": {
     "bdd-with-opts": "1.1.1",
